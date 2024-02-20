@@ -50,7 +50,7 @@ footer {
     text-align: center;
     padding: 20px;
     background-color: var(--main-color);
-    color: #fff;
+    color: black;
 }
 
 #idiomas {
@@ -202,4 +202,9 @@ footer {
 .course span {
     font-size: 50px;
     margin-bottom: 10px;
+}
+
+a:hover{
+    text-decoration: none;
+    font-weight: bold;
 }
